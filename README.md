@@ -24,8 +24,8 @@ A fun console-based game where the user tries to guess a randomly generated numb
 
 ## Purpose
 
-These projects were created to practice and improve core Java programming skills and problem-solving abilities.
+ These projects were created to practice and improve core Java programming skills and problem-solving abilities.
 
 ---
 
-*This repository is part of my learning journey in programming and software development.*
+* This repository is part of my learning journey in programming and software development.*
