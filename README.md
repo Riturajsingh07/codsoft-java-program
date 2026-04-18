@@ -10,13 +10,13 @@ A basic ATM simulation program that allows users to check balance, deposit money
 
 ### 2. Grade Calculator
 
-A Java program that calculates the final grade of a student based on marks entered by the user and displays the corresponding grade.
+ A Java program that calculates the final grade of a student based on marks entered by the user and displays the corresponding grade.
 
 ### 3. Number Guessing Game
 
-A fun console-based game where the user tries to guess a randomly generated number within a limited number of attempts.
+ A fun console-based game where the user tries to guess a randomly generated number within a limited number of attempts.
 
-## Technologies Used
+ ## Technologies Used
 
 * Java
 * Basic Object-Oriented Programming Concepts
